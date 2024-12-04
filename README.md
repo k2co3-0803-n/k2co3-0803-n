@@ -1,5 +1,4 @@
 ## Hi there 👋
-## 🔭 I’m currently working on ...
 
 <!--
 **k2co3-0803-n/k2co3-0803-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
