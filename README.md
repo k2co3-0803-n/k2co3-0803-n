@@ -45,8 +45,3 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
   Delivered a presentation on **AI** and its **social impact** at **Kaohsiung Senior High School**, Taiwan
 - **Global Leadership Program** | Mar 2019  
   Delivered presentations on **STEM** at **Harvard University** and **Millburn High School**, USA
-
----
-
-## 📈 GitHub Stats
-![Kosuke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=k2co3-0803-n&show_icons=true&count_private=true&hide=prs)
