@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 - 🏫 **Research Interests**: Quantum Computing, Quantum Communication, Quantum Network, AI, ML
 - 🌱 Currently working as a **Software Engineer Intern** at Keio University’s Global Research Institute
 - 🌍 Experienced with **cross-cultural collaboration**, having worked in **Japan**, **U.S.**, and **Taiwan**
-- 💬 Fluent in **Japanese**, **English**, and **intermediate French**, beginner in **Chinese**
+- 💬 Fluent in **Japanese**, **English**, and intermediate in **French**, beginner in **Chinese**
 - 📧 Reach me at: [k2co3.0803.n@keio.jp](mailto:k2co3.0803.n@keio.jp)
 
 ---
