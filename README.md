@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 - 🌍 Experienced with **cross-cultural collaboration**, having worked in **Japan**, **U.S.**, and **Taiwan**
 - 💬 Fluent in **Japanese**, **English**, and intermediate in **French**, beginner in **Chinese**
 - 📧 Reach me at: [k2co3.0803.n@keio.jp](mailto:k2co3.0803.n@keio.jp)
-- ℹ️ More detailed information, please read my CV: [Kosuke Chino | 千野浩輔](https://drive.google.com/file/d/1ewnWVDcTUCB6WnBLc0BZluIx_6xIwQQg/view)
+- ℹ️ More detail information, please read my CV: [Kosuke Chino | 千野浩輔](https://drive.google.com/file/d/1ewnWVDcTUCB6WnBLc0BZluIx_6xIwQQg/view)
 
 ---
 
