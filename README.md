@@ -18,5 +18,5 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 - **Development Tools & Frameworks**: Flutter, Flask, Qiskit, PyTorch, OpenMP, MPI, CUDA, Velirog, AWS
 - **Quantum Computing**: Qiskit
 - **Web & Mobile Development**: Flutter, HTML, CSS, JavaScript, Firestore
-- **AI & Machine Learning**: PyTorch, ML Models
+- **AI & Machine Learning**: PyTorch
 - **Languages**: Japanese (native), English (fluent), French (intermediate), Chinese (beginner)
