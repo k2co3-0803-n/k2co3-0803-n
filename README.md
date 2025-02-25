@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate software engineer with a focus on **Quantum Computing**, **AI**, and **Machine Learning**. Currently, I'm pursuing my **Bachelor of Engineering** in **Information and Computer Science** at **Keio University**, Japan.
 
 ## 🚀 About Me
-- 🎓 **Education**: Keio University (Bachelor of Engineering), **42 Tokyo**
-- 🏫 **Research Interests**: Quantum Computing, Quantum Communication, Quantum Network, AI, ML
+- 🎓 Education: **Keio University** (Bachelor of Engineering), **42 Tokyo**
+- 🏫 Research Interests: Quantum Computing, Quantum Communication, Quantum Network, AI, ML
 - 🌱 Currently working as a **Software Engineer Intern** at Keio University’s Global Research Institute
 - 🌍 Experienced with **cross-cultural collaboration**, having worked in **Japan**, **U.S.**, and **Taiwan**
 - 💬 Native in **Japanese**, Intermediate in **English**, and beginner in **French**
