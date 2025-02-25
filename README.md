@@ -18,4 +18,4 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 - **Quantum Computing**: Qiskit
 - **Web & Mobile Development**: Flutter, HTML, CSS, JavaScript, Firestore
 - **AI & Machine Learning**: PyTorch
-- **Languages**: Japanese (native), English (fluent), French (intermediate), Chinese (beginner)
+- **Languages**: Japanese (native), English (fluent), French (intermediate)
