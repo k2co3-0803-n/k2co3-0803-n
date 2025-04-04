@@ -1,4 +1,4 @@
-# Hello! I'm **Kosuke Chin** 👋
+# Hello! I'm **Kosuke Chino** 👋
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a focus on **Quantum Computing**, **AI**, and **Machine Learning**. Currently, I'm pursuing my **Bachelor of Engineering** in **Information and Computer Science** at **Keio University**, Japan.
 
