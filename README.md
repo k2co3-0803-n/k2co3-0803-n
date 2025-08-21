@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a focus on
 - 🌍 Experienced with **cross-cultural collaboration**, having worked in **Japan**, **U.S.**, and **Taiwan**
 - 💬 Native in **Japanese**, Intermediate in **English**, and beginner in **French**
 - 📧 Reach me at: [k2co3.0803.n@keio.jp](mailto:k2co3.0803.n@keio.jp)
-- ℹ️ More detail information, please read my [Curriculum Vitae](https://drive.google.com/drive/folders/1t_-z-qzVIdrc2BQx5iKrQ8wKjs6j08dA)
+- ℹ️ More detail information, please read my [Curriculum Vitae](https://drive.google.com/file/d/13g0g60AcPsBuho6m8fu-yLAQZIPAsq0g/view)
 ---
 
 ## 🌟 Skills & Technologies
