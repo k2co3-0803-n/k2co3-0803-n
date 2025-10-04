@@ -1,4 +1,4 @@
-# Hello! I'm **Kosuke Chino** 👋
+# Hello! I'm Kosuke Chino 👋
 
 Welcome to my GitHub profile! I'm a passionate senior student with a focus on **Quantum Network**. Currently, I'm pursuing my Bachelor of Engineering in department of Information and Computer Science at Keio University, Japan.
 
