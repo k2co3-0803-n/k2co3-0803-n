@@ -17,5 +17,5 @@ Welcome to my GitHub profile! I'm a passionate senior student with a focus on **
 - Quantum Computing: Qiskit, Netsquid
 - Web & Mobile Development: Flutter, HTML, CSS, JavaScript, Firestore
 - AI & Machine Learning: PyTorch
-- **Languages**: Japanese (native), English (TOEFL iBT 101), French (beginner, Practical French Proficiency Test, Grade 3)
+- Languages: Japanese (native), English (TOEFL iBT 101), French (beginner, Practical French Proficiency Test, Grade 3)
 
