@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate senior student with a focus on **
 - Programming Languages: Python, C, Java, JavaScript, Dart, SQL, Google Apps Script, HTML/CSS
 - Development Tools & Frameworks: Flutter, Flask, Qiskit, PyTorch, OpenMP, MPI, CUDA, Velirog, AWS
 - Quantum Computing: Qiskit, Netsquid
-- Web & Mobile Development: Flutter, HTML, CSS, JavaScript, Firestore
+- Web & Mobile Development: HTML, CSS, JavaScript, Swift, Flutter, Firestore
 - AI & Machine Learning: PyTorch
 - Languages: Japanese (native), English (TOEFL iBT 101), French (beginner, Practical French Proficiency Test, Grade 3)
 
