@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate senior student with a focus on **
 - 🌱 Currently working as a Software Engineer Intern at Keio University’s Global Research Institute
 - 💬 Native in Japanese, Intermediate in English, and beginner in French
 - 📧 Reach me at: [k2co3.0803.n@keio.jp](mailto:k2co3.0803.n@keio.jp)
-- ℹ️ More detail information, please read my [Curriculum Vitae](https://drive.google.com/file/d/1Q4Fge1y6SIfrOPb5IDCdOZ9S2BzUQz3s/view?usp=sharing)
+- ℹ️ More detail information, please read my [Curriculum Vitae](https://drive.google.com/file/d/1LDpSrjTnZBrwkLSSZDsQ2hyrWgZ4Lwt6/view?usp=sharing)
 ---
 
 ## 🌟 Skills & Technologies
