@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate senior student with a focus on **
 
 ## 🚀 About Me
 - 🎓 Education: Keio University (Bachelor of Engineering), 42 Tokyo
-- 🏫 Research Interests: Quantum Computing, Quantum Communication, Quantum Network, AI, ML
+- 🏫 Research Interests: Quantum Computing, Quantum Communication, Quantum Networking, AI, ML
 - 🌱 Currently working as a Software Engineer Intern at Keio University’s Global Research Institute
 - 💬 Native in Japanese, Intermediate in English, and beginner in French
 - 📧 Reach me at: [k2co3.0803.n@keio.jp](mailto:k2co3.0803.n@keio.jp)
