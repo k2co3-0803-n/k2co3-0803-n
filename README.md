@@ -1,6 +1,6 @@
 # Bonjour! I'm Kosuke Chino 👋
 
-Welcome to my GitHub profile! I'm a passionate senior student with a focus on **Quantum Network**. Currently, I'm pursuing my Bachelor of Engineering at the Department of Information and Computer Science, Keio University, Japan.
+Welcome to my GitHub profile! I'm a passionate senior student with a focus on **Quantum Networking**. Currently, I'm pursuing my Bachelor of Engineering at the Department of Information and Computer Science, Keio University, Japan.
 
 ## 🚀 About Me
 - 🎓 Education: Keio University (Bachelor of Engineering), 42 Tokyo
